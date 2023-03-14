@@ -1,2 +1,6 @@
 *.doc
+<<<<<<< HEAD
 venv/
+=======
+venv/*.*
+>>>>>>> d7ac358ffac311ecfd6ca00b2c5d476618e84f97
